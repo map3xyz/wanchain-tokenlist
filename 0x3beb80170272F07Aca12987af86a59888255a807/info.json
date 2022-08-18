@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3beb80170272F07Aca12987af86a59888255a807",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2e3d27d6-ebf6-41ac-8e4c-926fce352a26",
+  "links": {
+    "explorer": "https://www.wanscan.org/token/0x3beb80170272F07Aca12987af86a59888255a807"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/wanchain/assets/0x3beb80170272F07Aca12987af86a59888255a807/logo.png"
+  },
+  "name": "Curve",
+  "networkCode": "wanchain",
+  "spam": false,
+  "symbol": "CURV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

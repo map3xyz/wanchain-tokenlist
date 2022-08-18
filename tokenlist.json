@@ -1,0 +1,83 @@
+{
+  "name": "@Map3/wanchain-tokenlist",
+  "timestamp": "2022-08-18T13:25:21.829Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x0F2E7c0e904A525a24ff6F658053F6Ba5cE7a209",
+      "name": "Wanchain LRC Crosschain Token",
+      "decimals": 18,
+      "symbol": "LRC",
+      "tags": []
+    },
+    {
+      "address": "0x350BB91c9c8eF4E8c0E19FBDC6a90a24BCB1Ec2a",
+      "name": "Wanchain MKR Crosschain Token",
+      "decimals": 18,
+      "symbol": "MKR",
+      "tags": []
+    },
+    {
+      "address": "0x3beb80170272F07Aca12987af86a59888255a807",
+      "name": "Curve",
+      "decimals": 18,
+      "symbol": "CURV",
+      "tags": []
+    },
+    {
+      "address": "0x51316966907EF568689775066E97C46A4fFDE1A4",
+      "name": "Wanchain AURA Crosschain Token",
+      "decimals": 18,
+      "symbol": "AURA",
+      "tags": []
+    },
+    {
+      "address": "0xC6F4465A6a521124C8e3096B62575c157999D361",
+      "name": "FNX Token",
+      "decimals": 0,
+      "symbol": "FNX",
+      "tags": []
+    },
+    {
+      "address": "0xa13A41A2349d09c1e3A0Dd4D9448aF4Ad799Fc4a",
+      "name": "BlockMedx Token",
+      "decimals": 18,
+      "symbol": "MDX",
+      "tags": []
+    }
+  ]
+}
