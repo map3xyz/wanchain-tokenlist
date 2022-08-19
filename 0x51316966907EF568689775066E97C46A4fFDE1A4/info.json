@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x51316966907EF568689775066E97C46A4fFDE1A4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "40284ac9-9df4-4892-ac73-38611d02abef",
+  "links": {
+    "explorer": "https://www.wanscan.org/token/0x51316966907EF568689775066E97C46A4fFDE1A4"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/wanchain/assets/0x51316966907EF568689775066E97C46A4fFDE1A4/logo.png"
+  },
+  "name": "Wanchain AURA Crosschain Token",
+  "networkCode": "wanchain",
+  "spam": false,
+  "symbol": "AURA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

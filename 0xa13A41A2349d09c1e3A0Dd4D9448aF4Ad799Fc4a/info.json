@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xa13A41A2349d09c1e3A0Dd4D9448aF4Ad799Fc4a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d9a5b71-9b40-44d6-811a-2d1f0876885c",
+  "links": {
+    "explorer": "https://www.wanscan.org/token/0xa13A41A2349d09c1e3A0Dd4D9448aF4Ad799Fc4a"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/wanchain/assets/0xa13A41A2349d09c1e3A0Dd4D9448aF4Ad799Fc4a/logo.png"
+  },
+  "name": "BlockMedx Token",
+  "networkCode": "wanchain",
+  "spam": false,
+  "symbol": "MDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
